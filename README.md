@@ -1,6 +1,6 @@
 ## 3D-OD
 
-#### 6.28
+#### 6月28日
 
 研究深动科技交付的3D-OD模型，看到IDAUP不了解，进行了学习。IDA为CenterNet网络中的
 
@@ -8,7 +8,7 @@ DLASeg部分的网络设计思路，具体见以下文章，其中包含对Cente
 
 [CenterNet的骨干网络之DLASeg](https://zhuanlan.zhihu.com/p/169472178)
 
-其中主要可以看下HDA部分的设计，即Tree()；
+其中主要可以看下HDA部分的设计，即class Tree()；
 
 [Centernet 个人理解笔记-CSDN](https://blog.csdn.net/jiafeier_555/article/details/111477155)
 
